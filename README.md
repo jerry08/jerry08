@@ -38,3 +38,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"/>
   </p>
 </p>
+<p>
+  📣 Connect With Me :<br/>
+  <a href="https://instagram.com/mr.shabinder"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/watch?v=rkPHxcodL80"><img src="https://img.shields.io/badge/youtube-0077B5.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
