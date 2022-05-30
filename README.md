@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Repository stats
 
-<div>
+<p>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=jerry08&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrrrz&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
   <p>  
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
     <!--<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>-->
     <img src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"/>
   </p>
-</div>
+</p>
