@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 <p>
   📣 Connect With Me :<br/>
   <a href="https://instagram.com/mr.shabinder"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/watch?v=rkPHxcodL80"><img src="https://img.shields.io/badge/youtube-00FFFFFF.svg?style=for-the-badge&logo=youtube&logoColor=red"/></a>
+  <a href="https://www.youtube.com/watch?v=rkPHxcodL80"><img src="https://img.shields.io/badge/youtube-FFFFFF.svg?style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
