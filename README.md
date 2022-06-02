@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-<!--
-**jerry08/jerry08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### Repository stats
 
 <p>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=jerry08&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrrrz&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry08&theme=nord&hide_title=true&hide_border=true&layout=compact&langs_count=8">
   <p>
     <img src="https://img.shields.io/badge/-CSharp-800080?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
