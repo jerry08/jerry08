@@ -19,6 +19,5 @@
 </p>
 <p>
   📣 Connect With Me :<br/>
-  <a href="https://instagram.com/jeremy_yearwood"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/watch?v=rkPHxcodL80"><img src="https://img.shields.io/youtube/channel/views/UC6lh6TD0A6Vo48MPg8R6rUw?label=Youtube&style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
